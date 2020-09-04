@@ -1,5 +1,5 @@
 ---
-title: "Utilizacao De Pre Processadores"
+title: "Utilizacao De Pré-processadores"
 date: 2020-09-04T19:14:32-03:00
 draft: false
 ---
