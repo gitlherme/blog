@@ -26,7 +26,7 @@ Pra entender um pouco melhor o "poder" que os pré-processadores, iremos criar d
 
 > Vamos supor que você queira criar um pequeno sistema de grid, onde a cada número que você aumenta na classe, ele coloca um width maior pro seu elemento, começando com 100px e sempre adicionando mais 100px de acordo com a classe, algo como a imagem abaixo.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/093ea714-261e-4d89-bf15-de4e562e65d8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200904%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200904T221509Z&X-Amz-Expires=86400&X-Amz-Signature=034c744f49ec02f1d36360a7885d0a2e0a96715078d1765a004894d4e6152fdb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![](https://i.imgur.com/xNyCjU2.png)
 
 Traduzindo esse código para CSS, ficaria algo parecido com isso 👇🏽
 
